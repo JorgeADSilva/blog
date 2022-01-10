@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/first_post/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Jorge Personal Blog"}},"markdownRemark":{"id":"7219da07-ded1-568e-a29d-c3f8d833c806","excerpt":"This is the first post from my newly created blog. Hope we meet again soon… :D","html":"<p>This is the first post from my newly created blog. Hope we meet again soon… :D</p>","frontmatter":{"title":"Hello World Post","date":"January 10, 2022","description":"This is my first blog"}},"previous":{"fields":{"slug":"/new-beginnings/"},"frontmatter":{"title":"New Beginnings"}},"next":null},"pageContext":{"id":"7219da07-ded1-568e-a29d-c3f8d833c806","previousPostId":"ff59f1cb-06f8-5977-b65c-fe97c55219c7","nextPostId":null}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
