@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/blog`,
   siteMetadata: {
     title: `Jorge Personal Blog`,
     author: {
@@ -11,6 +12,7 @@ module.exports = {
     },
   },
   plugins: [
+    `gatsby-plugin-offline`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
