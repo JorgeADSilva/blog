@@ -1,14 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Jorge Personal Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jorge Silva`,
+      summary: `a machine that transforms coffee into code, which lives in the area of Aveiro, specifically in Vila de Cucujães, Oliveira de Azeméis, with a master's degree in Computer Engineering and a lots of energy to create new thigs.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `jorgeadsilva`,
     },
   },
   plugins: [
@@ -121,7 +120,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/developer.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
